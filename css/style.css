@@ -292,6 +292,11 @@ position: absolute;
   
 }
 
+#typed-strings {
+  
+  opacity: 0 ;
+}
+
 .score {
   
   font-family: helvetica;
@@ -301,3 +306,13 @@ position: absolute;
   
 }
 
+.answer {
+  
+  font-family: helvetica;
+  font-size: 250px;
+  color: yellow;
+  text-align: left;
+  margin-left: 12px;
+  transform: rotate(30);
+  
+}
