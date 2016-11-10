@@ -48,7 +48,7 @@
                  "He ran a gas station down in St. Louis...<br>No, Mahatma Gandhi was a great leader<br>of the 20th century.",
                  "The point is, you can never be<br>too greedy.",
                  "I'm not going to have some reporters pawing<br>through our papers. We are the president.",
-                 "I've said if Ivanka weren’t my daughter,<br>perhaps I’d be dating her.",
+                 "I've said if Ivanka weren't my daughter,<br>perhaps I'd be dating her.",
                  "I suppose I could have stayed home<br>and baked cookies and had teas,<br>but i decided to fulfill my profession<br>which I entered before my husband<br>was in public life.",
                  "My fingers are long and beautiful, as,<br>it has been well documented,<br>are various other parts of my body.",
                  "There’s a different leader in Syria now.<br>Many of the members of Congress of<br>both parties who have gone to Syria<br>in recent months have said they believe<br>he’s a reformer.",
